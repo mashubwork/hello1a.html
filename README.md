@@ -8,7 +8,8 @@ A little html file
   </head>
   <body>
     <h1>Welcome to my website!</h1>
-    <h1>This is a Good Website!</h1>
+    <h1>This is a Good Website!</h1> 
+    <h1>This is a Fun Website!</h1>
     Hello, World!
   </body>
   </html>
